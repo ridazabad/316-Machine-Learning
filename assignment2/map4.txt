@@ -1,0 +1,11 @@
++-------------------------------+
+|       X                       |
+|    XX   XXXXXX       X        |
+|    XX    XXXXX     GXX        |
+|    XX    XXXXXX    XX         |
+|    XX   XXXXXX    XXXX        |
+|    XX              XXX        |
+|    XXX                        |
+|   SXX           XXXXXXX       |
+|                               |
++-------------------------------+
